@@ -1,6 +1,6 @@
 # 🛠️ parser
 
-<a href="http://3.146.105.13:8000/parse" target="_blank">Click here to parse</a>
+type http://3.146.105.13:8000/parse into the Address bar to recive output
 
 > A custom file parser thats decodes a propritery file type.  
 Extracts embedded images, XML, and text files with byte-level precision. 🔍
