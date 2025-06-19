@@ -1,7 +1,6 @@
 # 🛠️ parser
 
-[Link Text](https://tinyurl.com/5n2rc8xa)
-[Test link](https://google.com)
+<a href="http://3.146.105.13:8000/parse" target="_blank">Click here to parse</a>
 
 > A custom file parser thats decodes a propritery file type.  
 Extracts embedded images, XML, and text files with byte-level precision. 🔍
