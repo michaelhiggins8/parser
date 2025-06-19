@@ -1,6 +1,6 @@
 # 🛠️ parser
 
-🌍 [Try the API here](http://3.146.105.13:8000/parse)
+🌍 https://tinyurl.com/5n2rc8xa
 > A custom file parser thats decodes a propritery file type.  
 Extracts embedded images, XML, and text files with byte-level precision. 🔍
 > This is was built with fastapi becuase it allows for a very quick reponse time over the internet which is ideal for single purporse API endpoints
